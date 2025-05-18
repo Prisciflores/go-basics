@@ -1,0 +1,8 @@
+# Archivos y carpetas que Go puede generar
+bin/
+*.exe
+*.out
+*.test
+
+# Archivos de sistema
+.DS_Store
